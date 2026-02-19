@@ -1,1 +1,1 @@
-# kannada-mnist
+# kannada-mnist classification
